@@ -1,1 +1,1 @@
-This weather app is a web-based application that provides real-time weather updates using the **OpenWeather API**. Built with **HTML, CSS, and JavaScript**, the app allows users to enter a city name and fetch details such as **temperature, humidity, wind speed, and weather conditions**. The JavaScript code handles API requests and updates the UI dynamically. The app features a responsive and user-friendly design, ensuring accessibility across different devices.
+
